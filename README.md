@@ -1,6 +1,6 @@
-# Amazon ML Challenge 2025 - Product Price Prediction
+# Amazon ML Challenge 2025 - Product Price Prediction(3 Days)
 
-A comprehensive machine learning pipeline for predicting product prices using multimodal data (text, images, and structured features).
+A comprehensive machine learning pipeline for predicting product prices using multimodal data (text, images, and structured features). I tried my best to integrate the image data with the textual features, but even after successful model training, wasn't able to finally add the features learned from the image_data due to mismanagement of precious time. Nevertheless i learned a lot through the journey and hopefully gain a load of insights for the next one.
 
 ## 🎯 Final Results
 
