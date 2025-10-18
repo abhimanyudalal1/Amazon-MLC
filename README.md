@@ -5,6 +5,7 @@ A comprehensive machine learning pipeline for predicting product prices using mu
 ## 🎯 Final Results
 
 **Final SMAPE Score: 49.094**
+**Final Rank: 1067**
 
 ## 📋 Project Overview
 
