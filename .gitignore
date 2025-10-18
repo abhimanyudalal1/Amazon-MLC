@@ -1,0 +1,119 @@
+# Dataset files
+*.csv
+train.csv
+test.csv
+train_processed.csv
+validation_results*.csv
+*_predictions.csv
+*_preds.csv
+ensemble*.csv
+quick_*.csv
+lgbm_*.csv
+
+# Model files
+*.pkl
+*.joblib
+*.model
+*.bin
+*.h5
+*.pt
+*.pth
+*.onnx
+lightgbm_model*
+bert_model*
+efficientnet_model*
+
+# Feature files
+*.npy
+*.npz
+*_features.npy
+*_features.npz
+train_resnet50_features*
+image_features*
+text_features*
+
+# Large result files
+validation_results/
+model_outputs/
+predictions/
+results/
+outputs/
+checkpoints/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+wandb/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Large image directories
+images/
+image_data/
+raw_images/
+test_images_mapped_fr/
+test_splits/
+train_images/
+train_images_mapp/
+train_images_mapped/
+train_images_mapped_fr/
+train_images_only/
+validation_images/
+
+train_images_mapp.zip
+train_imagess.zip
+tf_cache_train_0.data-00000-of-00001.tempstate16388639723233843560
+tf_cache_train_0.lockfile 
+splits/
